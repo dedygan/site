@@ -4,7 +4,7 @@
 
 @import url("https://fonts.googleapis.com/css?family=Yeon+Sung:regular&display=swap&subset=cyrillic-ext");
 
-@import url("https://fonts.googleapis.com/css?family=Comic+Neue:regular,italic,700,&display=swap&subset=cyrillic-ext");
+@import url("https://fonts.googleapis.com/css?family=Comic+Neue:regular,italic,700&display=swap&subset=cyrillic-ext");
 
 * {
   padding: 0px;
@@ -163,7 +163,7 @@ body._lock {
   padding: 0px 0px 40px 0px;
   font-family: "Lobster";
   color: #a7935f;
-  font-size: 40px;
+  font-size: 35px;
   text-align: center;
 }
 
